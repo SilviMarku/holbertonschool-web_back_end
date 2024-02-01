@@ -1,1 +1,1 @@
-ES6 Data Manipulations
+ES6 Data Manipulation
